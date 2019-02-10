@@ -13,3 +13,6 @@ npm install
 ```console
 node index.js
 ```
+
+# see also
+https://github.com/hfu/topographic-zero/blob/master/index.js
