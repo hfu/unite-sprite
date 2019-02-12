@@ -1,0 +1,25 @@
+{
+  "name": "unite-sprite",
+  "version": "1.0.0",
+  "description": "common sprites tentatively implemented using maki",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hfu/unite-sprite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/hfu/unite-sprite/issues"
+  },
+  "homepage": "https://github.com/hfu/unite-sprite#readme",
+  "dependencies": {
+    "@mapbox/spritezero": "^6.1.0",
+    "config": "^3.0.1",
+    "hjson": "^3.1.2"
+  }
+}
